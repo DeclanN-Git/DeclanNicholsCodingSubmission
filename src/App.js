@@ -35,7 +35,7 @@ function App() {
     console.log('Phone Number:', phoneNumber);
     console.log('Email Address:', emailAddress);
     console.log('Product Cost Guess?:', productCost);
-    console.log('Super Secret Spidr PIN:', fullPin);
+    console.log('Super Secret PIN:', fullPin);
 
     // Clear the form after submission
     setFirstName('');
